@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.77aaede5.css",
-    "main.js": "/static/js/main.a272d9ab.js",
-    "static/js/787.73a4972f.chunk.js": "/static/js/787.73a4972f.chunk.js",
-    "static/media/imgg3.jpg": "/static/media/imgg3.b37824377d2bef5f438c.jpg",
-    "static/media/imgg7.jpg": "/static/media/imgg7.8e4e65683dc0149fc984.jpg",
-    "static/media/imgg4.jpg": "/static/media/imgg4.5ed432835b065556ab0e.jpg",
-    "static/media/imgg1.jpg": "/static/media/imgg1.b5354cbec97a31b31a77.jpg",
-    "static/media/imgg8.jpg": "/static/media/imgg8.b8263332a71f3ccb5dd5.jpg",
-    "static/media/imgg5.jpg": "/static/media/imgg5.54dbe62bb4c2aeab9ab3.jpg",
-    "index.html": "/index.html",
-    "main.77aaede5.css.map": "/static/css/main.77aaede5.css.map",
-    "main.a272d9ab.js.map": "/static/js/main.a272d9ab.js.map",
-    "787.73a4972f.chunk.js.map": "/static/js/787.73a4972f.chunk.js.map"
+    "main.css": "/ShriGanesha/static/css/main.77aaede5.css",
+    "main.js": "/ShriGanesha/static/js/main.6514e9ce.js",
+    "static/js/787.73a4972f.chunk.js": "/ShriGanesha/static/js/787.73a4972f.chunk.js",
+    "static/media/imgg3.jpg": "/ShriGanesha/static/media/imgg3.b37824377d2bef5f438c.jpg",
+    "static/media/imgg7.jpg": "/ShriGanesha/static/media/imgg7.8e4e65683dc0149fc984.jpg",
+    "static/media/imgg4.jpg": "/ShriGanesha/static/media/imgg4.5ed432835b065556ab0e.jpg",
+    "static/media/imgg1.jpg": "/ShriGanesha/static/media/imgg1.b5354cbec97a31b31a77.jpg",
+    "static/media/imgg8.jpg": "/ShriGanesha/static/media/imgg8.b8263332a71f3ccb5dd5.jpg",
+    "static/media/imgg5.jpg": "/ShriGanesha/static/media/imgg5.54dbe62bb4c2aeab9ab3.jpg",
+    "index.html": "/ShriGanesha/index.html",
+    "main.77aaede5.css.map": "/ShriGanesha/static/css/main.77aaede5.css.map",
+    "main.6514e9ce.js.map": "/ShriGanesha/static/js/main.6514e9ce.js.map",
+    "787.73a4972f.chunk.js.map": "/ShriGanesha/static/js/787.73a4972f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77aaede5.css",
-    "static/js/main.a272d9ab.js"
+    "static/js/main.6514e9ce.js"
   ]
 }
