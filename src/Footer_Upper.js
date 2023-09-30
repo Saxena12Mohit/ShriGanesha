@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaGoogle, FaGithub } from "react-icons/fa";
-function Footer_upper() {
+function Footer_Upper() {
   return (
     <>
       <div className="container-fluid">
@@ -78,4 +78,4 @@ function Footer_upper() {
   )
 }
 
-export default Footer_upper
+export default Footer_Upper

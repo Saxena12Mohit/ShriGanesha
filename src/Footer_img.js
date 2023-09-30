@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaGoogle, FaGithub } from "react-icons/fa";
-function Footer_img() {
+function Footer_Img() {
     return (
         <>
             <div className="card text-center">
@@ -69,4 +69,4 @@ function Footer_img() {
     )
 }
 
-export default Footer_img
+export default Footer_Img
