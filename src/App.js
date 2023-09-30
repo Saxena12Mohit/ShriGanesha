@@ -2,8 +2,7 @@
 import About from './About';
 import './App.css';
 import Contact from './Contact';
-import Footer_img from './Footer_img';
-import Footer_upper from './Footer_upper';
+import FOOTER_IMG from './Footer_Img';
 import Home from './Home';
 import Navbar from './Navbar';
 import Services from './Services';
@@ -23,7 +22,7 @@ function App() {
         <Route path="/about" element={<About/>}>
         </Route>
       </Routes>
-      <Footer_img />
+      <FOOTER_IMG />
       {/* <Fix_footer /> */}
     </>
   );
