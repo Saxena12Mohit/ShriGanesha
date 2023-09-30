@@ -1,7 +1,7 @@
 import React from 'react'
 import imgg1 from '../src/Images/imgg1.jpg'
-import Home from './Home';
-import About from './About';
+// import Home from './Home';
+// import About from './About';
 
 function Common(props) {
   return (
