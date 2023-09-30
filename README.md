@@ -12,8 +12,6 @@ Get a quick glance of the project with these screenshots:
 4. ![Screenshot 4](./Screenshots/Services1.png)
 5. ![Screenshot 5](./Screenshots/Services2.png)
 
-(Note: Ensure that the screenshots are named as `screenshot1.png`, `screenshot2.png`, etc. and are located in the `/Screenshots` directory.)
-
 ## Getting Started
 
 Follow these instructions to get the project up and running on your local machine:
